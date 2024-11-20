@@ -40,13 +40,6 @@ A scalable web application for hospitals to streamline operations and improve pa
 
 ---
 
-## 📫 **Contact Me**  
-
-- **LinkedIn**: [Your LinkedIn Profile](#)  
-- **GitHub**: [Your GitHub Profile](#)   
-
----
-
 ## 📝 **About Me**  
 
 I am a **Computer Science Engineering graduate** with a passion for software development and innovation. With expertise in Java, Spring Boot, and Angular, I thrive on solving complex problems and building impactful applications. Let's connect to create something amazing!  
